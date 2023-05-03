@@ -37,4 +37,4 @@ $(OBJECT_PATH)/%.o: $(SOURCE_PATH)/%.cpp $(HEADERS)
 
 clean:
 	rm -f $(OBJECTS) *.o test* demo*
-	rm -f StudentTest*.cpp
+	
